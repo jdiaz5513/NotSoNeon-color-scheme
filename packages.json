@@ -4,15 +4,15 @@
     "packages": [
 
         {
-            "name": "Neon Color Scheme",
-            "details": "https://github.com/MattDMo/Neon-color-scheme",
+            "name": "NotSoNeon Color Scheme",
+            "details": "https://github.com/jdiaz5513/NotSoNeon-color-scheme",
             "releases": [
                 {
                     "sublime_text": "*",
-                    "details": "https://github.com/MattDMo/Neon-color-scheme/tags"
+                    "details": "https://github.com/jdiaz5513/NotSoNeon-color-scheme/tags"
                 }
             ],
-            "previous_names": ["Neon Theme"],
+            "previous_names": ["NotSoNeon Theme"],
             "labels": ["color scheme"]
         }
     ]

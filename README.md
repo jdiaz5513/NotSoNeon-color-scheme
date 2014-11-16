@@ -1,6 +1,8 @@
 # Neon Color Scheme
 
-**Neon** is a colorful bright-on-black color scheme for [Sublime Text 2](http://www.sublimetext.com/2)/[ST3](http://www.sublimetext.com/3 "Sublime Text 3") and [TextMate](http://www.macromates.com) (versions 1 and [2](https://github.com/textmate/textmate)). In designing it, I've aimed to make as many languages as possible look as good as possible, taking advantage of as many of the available [scopes](http://docs.sublimetext.info/en/latest/extensibility/syntaxdefs.html#scopes) as I can. **Neon** was originally designed for [Python](http://www.python.org), which has a very detailed language definition, but lots of languages look good with it, like JavaScript, CSS, HTML, Ruby, PHP, shell scripts, XML, Clojure, Fortran (really!), R, LaTeX, Markdown, reStructuredText, and more. It's also great when using @wuub's fantastic [SublimeREPL](https://github.com/wuub/SublimeREPL) plugin, which I can't say enough good things about. 
+This is forked from [Neon](http://github.com/MattDMo/Neon-color-scheme) to be less saturated and easier on the eyes. Original README included below.
+
+**Neon** is a less colorful bright-on-black color scheme for [Sublime Text 2](http://www.sublimetext.com/2)/[ST3](http://www.sublimetext.com/3 "Sublime Text 3") and [TextMate](http://www.macromates.com) (versions 1 and [2](https://github.com/textmate/textmate)). In designing it, I've aimed to make as many languages as possible look as good as possible, taking advantage of as many of the available [scopes](http://docs.sublimetext.info/en/latest/extensibility/syntaxdefs.html#scopes) as I can. **Neon** was originally designed for [Python](http://www.python.org), which has a very detailed language definition, but lots of languages look good with it, like JavaScript, CSS, HTML, Ruby, PHP, shell scripts, XML, Clojure, Fortran (really!), R, LaTeX, Markdown, reStructuredText, and more. It's also great when using @wuub's fantastic [SublimeREPL](https://github.com/wuub/SublimeREPL) plugin, which I can't say enough good things about. 
 
 [![PythonImproved with Neon](http://pigimal.com/img/github/python.png)](https://sublime.wbond.net/packages/Python%20Improved)
 
@@ -99,6 +101,7 @@ If you have questions, concerns, or suggested improvements, I'd love to hear fro
 
 ## License
 
+&copy; 2014 Julian Diaz <jdiaz5513@gmail.com>.
 &copy; 2012-2014 Matt Morrison <mattdmo@pigimal.com>.
 
 This is free software. It is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>. Feel free to use this theme in your own work. However, if you modify and/or redistribute it, please attribute me in some way, and distribute your work under this or a similar license. A shout-out or a beer would be greatly appreciated.
